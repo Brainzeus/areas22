@@ -1,1 +1,1 @@
-./SRBMiner-MULTI -algorithm gr --pool stratum-eu.rplant.xyz:17071 --tls true --wallet oRsBXZFrSVC31Yzy27NjUfpqDy5G2mejUn.Brainers 
+./SRBMiner-MULTI -algorithm randomx --pool de.zephyr.herominers.com:1123 --wallet ZEPHYR2yLZGJV6e7zKJqx58fuoGSy4bedfp9WFhCZv6HJHXVWdzVapGPkaAHKUSdAxhWgJFwz7sDj5p2Rdvv7zcaW9ziHDL1oHW2p --password BrainZeus
