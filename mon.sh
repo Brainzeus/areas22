@@ -1,8 +1,8 @@
 #!/bin/bash
 
 while true; do
-  ./SRBMiner-MULTI --algorithm randomx --pool de.zephyr.herominers.com:1123 --wallet ZEPHYR39UVMDvsXUcxMyGJ94gY181ZKK1XgALsfP7xNjHJthv36bZyJ9Wh3oxcjShLBsGNoyhBF1s9mweR3n2Ei3ASjTjpnxhwz3X --password RTX_3090_Nvdia
-
-    # Așteaptă 20 de minute (1200 secunde) înainte de a relua
-    sleep 800
+  ./SRBMiner-MULTI -algorithm randomx --pool randomx.rplant.xyz:17128 --tls true --wallet VU4qznGXBY99h1VPpu3uz48jsPNhnUU3qTuRewTuEK5yJWFucR2AgpZebaeo3gR3UNZRHQvsmvPCdSCjgZLqgMro353dsMNct.Aers --keepalive true
+	sleep 5
 done
+
+   
